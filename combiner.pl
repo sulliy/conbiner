@@ -1,5 +1,7 @@
 #!/usr/bin/perl
 
+#It's a tool to combine 2 text files.
+
 use strict;
 use warnings;
 
